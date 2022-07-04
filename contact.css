@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+h1{
+	text-align: center;
+	padding: 20px;
+	color:#F5FFFA;
+}
+
+	h2{
+	text-align: center;
+	padding: 20px;
+	color:#f00909;
+}
+ .register{
+	background: #87CEFA;
+	width: 500px;
+	margin: 0px 0px 0px 430px;
+	color: white;
+	font-size: 18px;
+	padding: 20px;
+	border-radius: 10px;
+}
+.register{
+	margin-right: 50px;
+}
+label{
+	color: white;
+	font-family: sans-serif;
+	font-size:10px;
+}
+.name{
+	width: 230px;
+	border:none;
+	outline: 0;
+	padding: 7px;
+}
+	.sub{
+
+}
+body{
+	background-image: url("wall.jpg");
+}
